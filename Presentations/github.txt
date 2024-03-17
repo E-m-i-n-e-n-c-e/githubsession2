@@ -1,0 +1,11 @@
+
+
+WORKING AREA -- Normal folder and files not cared by git
+
+Tracked Area -- Folder and Files git knows about
+
+Staging area -- Folder and files git will upload 
+
+Git directory -- Folder and files uploaded by GIT
+
+
